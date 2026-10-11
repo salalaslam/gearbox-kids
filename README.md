@@ -2,7 +2,7 @@
 
 An interactive, single-page animation that explains a manual gearbox to kids (7–12). It has three gears (1, 2 and reverse) plus neutral.
 
-Live: https://gearbox-kids.vercel.app
+Live: https://salalaslam.github.io/gearbox-kids/ (also https://gearbox-kids.vercel.app)
 
 - **Gear stick:** drag the red ball, click 1 / 2 / R / N, or press the keys `1`, `2`, `R` and `N`.
 - **Gearbox x-ray:** a shift fork slides the gears along the wheel shaft until their teeth catch an engine gear. The wheel shaft turns orange when it spins.
